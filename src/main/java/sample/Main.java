@@ -16,7 +16,6 @@ import javafx.stage.Stage;
 import java.util.Random;
 
 /**
- * Simple port from https://gist.github.com/Chase-san/5550996#file-rain-cpp
  * JavaFX rocks
  */
 
